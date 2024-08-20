@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.080000,
+https://cdn.tsinbei.com/gh/LeoonLiang/pic@main/video/111179-689949805_medium000.png
+#EXTINF:1.720000,
+https://cdn.tsinbei.com/gh/LeoonLiang/pic@main/video/111179-689949805_medium001.png
+#EXT-X-ENDLIST
